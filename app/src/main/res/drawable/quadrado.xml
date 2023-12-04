@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+        android:shape="rectangle">
+
+        <!-- Cor de fundo gradiente de preto para cinza -->
+        <gradient
+            android:angle="135"
+            android:centerColor="#80777777"
+            android:endColor="#80000000"
+            android:startColor="#80777777" />
+
+        <!-- Bordas arredondadas -->
+        <corners
+            android:radius="8dp" />
+
+</shape>
